@@ -8,9 +8,11 @@
    
 moira_kor 는 Moira 의 메뉴와 텍스트 일부를 한글화 하고, 한국에서 사용하기 위한 약간의 기능이 추가된 패치버전 입니다.
 
-Moira의 원래 사이트는 https://sites.google.com/site/athomeprojects 입니다.
+Moira의 원래 사이트는 https://sites.google.com/site/athomeprojects 입니다.    
 
-원본 외 수정한 소스코드들을 GNU 일반 공중 라이선스 (GPL) V2 적용으로 공개했습니다.
+Moira의 원래 사이트에 설치파일, 소스코드, 소스코드 빌드 방법이 공개되어 있습니다.    
+
+Moira_kor 에서는 원본 외 수정한 소스코드들을 GNU 일반 공중 라이선스 (GPL) V2 적용으로 배포합니다.    
 
 
 
