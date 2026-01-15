@@ -23,3 +23,7 @@ Moira가 설치된 폴더 (기본값은 C:\Program Files (x86)\At Home Projects\
    
 cities_k.prop, moira.jar, moira_k.prop 를 복사해서 붙여넣기로 덮어쓰시고 사용하시면 됩니다.    
  
+
+신살 부분 한글번역 했습니다.이전 한자 버전을 사용하시려면 
+    
+moira_k.prop 파일을 삭제 후 moira_k2.prop 파일의 이름을 moira_k.prop 로 수정해주시면 됩니다
